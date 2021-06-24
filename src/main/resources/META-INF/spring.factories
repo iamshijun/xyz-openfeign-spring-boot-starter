@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+xyz.asitanokibou.cloud.commons.httpclient.HttpClientConfiguration,\
+xyz.asitanokibou.openfeign.FeignAutoConfiguration,\
+xyz.asitanokibou.openfeign.encoding.FeignAcceptGzipEncodingAutoConfiguration,\
+xyz.asitanokibou.openfeign.encoding.FeignContentGzipEncodingAutoConfiguration
